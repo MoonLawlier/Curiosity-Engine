@@ -37,7 +37,7 @@ Perfect for sparking creativity, storytelling, or fun challenges.
 3. Run the file:
 
 ```bash
-python filename.py
+python space_idea_generator.py
 ```
 
 ---
