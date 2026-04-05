@@ -1,5 +1,8 @@
 # 🚀 Space Idea Generator
 
+
+## ✨ Generate unique space ideas instantly!
+
 ## 📌 Description
 
 A fun Python project that generates random creative space-themed ideas by combining activities, inspiration sources, and unique constraints.
@@ -66,3 +69,5 @@ Build a model rocket and launch it, inspired by Netflix, using only recycled mat
 ## 🎯 Purpose
 
 This project was built to practice Python basics while creating something creative and interactive.
+
+
